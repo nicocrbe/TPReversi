@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/juego/Aplicacion.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/juego/ColocarFicha.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/juego/MostrarError.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/juego/Reversi.java" charset="windows-1252" />
+  </component>
+</project>
